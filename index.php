@@ -2,4 +2,6 @@
 
 echo "first commit";
 
+echo datetime();
+
 ?>
